@@ -8,7 +8,7 @@ from datetime import timedelta
 from thread import start_new_thread
 from datetime import datetime
 from Fachade import ControladorFachade
-TOKEN = '141248371:AAGylO_gJ_kjnu4l6aqt1if8aXjGGvIH5_Y'
+TOKEN = ''
 
 
 
