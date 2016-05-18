@@ -6,7 +6,7 @@ import datetime
 
 class JuegoFachade:
 	def __init__(self):
-		self.bd =BD('localhost', 'externo', 'cipotona', 'trivialBot')
+		self.bd =BD('localhost', 'modificar', 'modificar', 'modificar')
 
 	def getJuegoByID(self,idJuego):
 		juego = Entity.Juego()
@@ -28,7 +28,7 @@ class JuegoFachade:
 
 class ConcursoFachade:
 	def __init__(self):
-		self.bd =BD('localhost', 'externo', 'cipotona', 'trivialBot')
+		self.bd =BD('localhost', 'modificar', 'modificar', 'modificar')
 
 	def getConcursosActivos(self):
 		listaConcursos=[]
@@ -109,7 +109,7 @@ class ConcursoFachade:
 
 class UsuarioFachade:
 	def __init__(self):
-		self.bd =BD('localhost', 'externo', 'cipotona', 'trivialBot')
+		self.bd =BD('localhost', 'modificar', 'modificar', 'modificar')
 
 	def getUsuarioById(self,idUsuario):
 		usuario = Entity.Usuario()
@@ -136,7 +136,7 @@ class UsuarioFachade:
 
 class ClasificacionFachade:
 	def __init__(self):
-		self.bd =BD('localhost', 'externo', 'cipotona', 'trivialBot')
+		self.bd =BD('localhost', 'modificar', 'modificar', 'modificar')
 		self.lista=[]
 
 	def getClasificacion(self,idGrupo):
@@ -170,7 +170,7 @@ class ClasificacionFachade:
 
 class ControladorFachade:
 	def __init__(self):
-		self.bd =BD('localhost', 'externo', 'cipotona', 'trivialBot')
+		self.bd =BD('localhost', 'modificar', 'modificar', 'modificar')
 		self.listaConcursoControlador=[]
 		self.getConcursos()
 	def getConcursos(self):
