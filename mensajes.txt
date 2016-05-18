@@ -1,8 +1,7 @@
-yaHasVotado=USUARIO, que ya has votado, no seas agonioso.;USUARIO que te crees, mejor que los demas y que puedes votar todas las veces que quieras?, No flipas.;Si si USUARIO dale dale, pero solo cuenta la primera chavalote.
-graciasPorVotar=Gracias por votar USUARIO. Ojala saliera su numero de telefono tambien.;Gracias USUARIO, Ya te puedes ir calentico a dormir.;USUARIO como te gusta jugar eh... gracias guarron.;Gracias por depositar su voto en la encu.... chorradas. Esta buena la tia?Te la follabas a que si USUARIO?
-noJuegoIniciado=Illo USUARIO, que no hay ningun juego iniciado!;Oyes USUARIO, pues no ves que no hay ningun concurso activo?
-noHaVotadoNadie=USUARIO, todavia no ha votado nadie, vaya ruina no?
-hayJuegoYaIniciado=Ya hay un juego iniciado USUARIO, que no te enteras!.
-noTienesPermisoSolucion=No tienes permiso USUARIO, que te creias, que iba a ser asi de facil?;Si claro USUARIO, asi de facil, le das a solucion y descubres el pastel...iluso.
-noTienesPermisoGenerico=No tienes permiso USUARIO... Tira por ahi;Jajaja si si USUARIO sigue dandole, no flipas.
-noTienesPermisoInicioEncuesta=Que te has creido USUARIO, que cualquiera puede iniciar un concurso?.. no flipas;No veas USUARIO que pesao, que tu no tienes calidad suficiente para empezar concursos, asi que deja eso en manos de quien sabe.;Jaja USUARIO, te crees que por darle ha iniciar juego, por la gracia de dios va a funcionar... Pos no tiene fe tu ni na.
+yaHasVotado=
+noJuegoIniciado=
+noHaVotadoNadie=
+hayJuegoYaIniciado=
+noTienesPermisoSolucion=
+noTienesPermisoGenerico=
+noTienesPermisoInicioEncuesta=
