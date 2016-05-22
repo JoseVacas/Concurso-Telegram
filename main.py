@@ -11,7 +11,7 @@ import datetime
 from Mensajes import Mensajes
 
 
-TOKEN = '141248371:AAGylO_gJ_kjnu4l6aqt1if8aXjGGvIH5_Y' # Nuestro tokken del bot (el que @BotFather nos dio).
+TOKEN = '' # Nuestro tokken del bot (el que @BotFather nos dio).
 
 ADMINISTRADOR=6924972
 
